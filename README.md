@@ -4,7 +4,7 @@ This repository shows the animation result based on motion capture data.
 The VR animation was created using Unity.
 ![Animacja](youtube-video-gif.gif)
 
-## Watch the preview of the VR animation made with Unity.
+## Watch the preview of the VR animation made with Unity
 
 https://github.com/user-attachments/assets/6e6a94b2-80e9-458f-8304-0ae20d3d402b
 
